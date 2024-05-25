@@ -1,0 +1,39 @@
+name: sidneys_github_explorer
+description: "The project is a a GitHub Explorer app. The app will include features such as GitHub authentication, displaying user profiles, repository exploration, and a contributions dashboard."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  flutter_web_auth: ^0.5.0
+  firebase_core: ^2.28.0
+  shared_preferences: ^2.0.6
+  sign_button: ^2.0.6
+  firebase_auth: ^4.7.2
+  status_alert: ^1.0.1
+  local_auth: ^2.1.6
+  google_fonts: ^6.2.1
+  http: ^1.2.1
+  graphql_flutter: ^5.1.2
+  fl_chart: ^0.35.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+
+flutter:
+
+
+  uses-material-design: true

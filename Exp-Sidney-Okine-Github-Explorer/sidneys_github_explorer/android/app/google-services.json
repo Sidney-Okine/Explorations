@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367196828563",
+    "project_id": "testingflutterprojects",
+    "storage_bucket": "testingflutterprojects.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367196828563:android:e9e4bc06f4fce1e40bee66",
+        "android_client_info": {
+          "package_name": "com.sidneyokine.sidneys_github_explorer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCBgku7Yoet4Egit2sc5t36hgtNQdtXRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
